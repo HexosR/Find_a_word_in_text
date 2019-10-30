@@ -1,0 +1,3 @@
+C:/CLion/word_in_text/cmake-build-debug/CMakeFiles/word_in_text.dir
+C:/CLion/word_in_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLion/word_in_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
